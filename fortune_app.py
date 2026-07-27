@@ -25,3 +25,6 @@ if st.button("🥠 Open My Fortune"):
         st.write(random.choice(fortunes))
     else:
         st.warning("Please enter your name first!")
+
+st.markdown("---")
+st.caption("Made with ❤️ by Navya")
