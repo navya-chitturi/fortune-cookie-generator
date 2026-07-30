@@ -21,4 +21,3 @@ https://fortune-cookie-generator-a5oy4gcqq7zbqscrykzqbq.streamlit.app/
 
 
 
-Made with ❤️ by Navya
